@@ -2,7 +2,11 @@
 
  ## Aprimorando conhecimento em html, css e javascript
 
+ <div align="center">
+
  [<img src = "images/banner.png">](https://luizacn.github.io/logo-firefox/)
+
+ </div>
 
 
  
