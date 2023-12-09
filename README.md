@@ -4,7 +4,7 @@
 
  <div align="center">
 
- [<img src = "images/banner.png">](https://luizacn.github.io/logo-firefox/)
+ [<img src = "images/logo-firefox.png">](https://luizacn.github.io/logo-firefox/)
 
  </div>
 
