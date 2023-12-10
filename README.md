@@ -1,6 +1,6 @@
 # logo-firefox
 
- ## Aprimorando conhecimento em html, css e javascript
+ ## Projeto logo firefox aprimorando conhecimentos em html5 e css3, site mdn
 
  <div align="center">
 
